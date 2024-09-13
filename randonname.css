@@ -1,0 +1,17 @@
+#mylabel{
+    text-align: center;
+    font-size: 5em;
+    margin-left: 145px
+    
+}
+button{
+    margin-left: 185px;
+    cursor: pointer;
+    transition: yellow 12 0.25ms;
+}
+.main{
+    border: 3px solid black;
+    width: 450px;
+    margin-left: 550px;
+    background: radial-gradient(aqua,yellow);
+}
